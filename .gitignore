@@ -1,0 +1,17 @@
+# Java 컴파일된 파일 제외
+*.class
+
+# IDE 설정 파일 제외 (VSCode, IntelliJ, Eclipse)
+.vscode/
+.idea/
+*.iml
+*.log
+.metadata/
+
+# Mac 관련 숨김 파일 제외
+.DS_Store
+
+# 환경설정 및 빌드 관련 폴더 제외
+bin/
+out/
+target/
